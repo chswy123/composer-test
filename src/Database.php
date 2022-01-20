@@ -6,6 +6,6 @@ class Database
 {
     public function index()
     {
-        echo 'composer index ...';
+        echo 'composer index ... ???';
     }
 }
