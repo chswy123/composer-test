@@ -1,16 +1,8 @@
 {
     "name": "chswy123/composer-test",
     "description": "test",
-    "type": "project",
+    "type": "library",
     "license": "MIT",
     "minimum-stability": "stable",
-    "require": {},
-    "autoload": {
-        "files": [
-            "src/lib/helper.php"
-        ],
-        "psr-4": {
-            "chswy123\\composer\\": "src"
-        }
-    }
+    "require": {}
 }
